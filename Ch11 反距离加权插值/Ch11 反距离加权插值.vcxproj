@@ -127,9 +127,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <None Include="README.md" />
-  </ItemGroup>
-  <ItemGroup>
     <ClCompile Include="compute_distance_tow_point.c" />
     <ClCompile Include="compute_height.c" />
     <ClCompile Include="main.c" />
